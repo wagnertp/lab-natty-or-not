@@ -25,4 +25,7 @@ Foi simples até! Acompanhe comigo o que foi necessario e crie o seu:
   Note que houve um erro onde confundi o que era um avatar e o que seria uma imagem, mas para fins de exercício, preferi deixar.
   Afinal, observando eventuais erros, os demais estudantes podem verificar e se aventurar em corrigir.
 
-  <iframe src="https://app.colossyan.com/embed/286ede36-1f7c-40ca-acee-375685fb1cdc" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+  Vou deixar aqui a imagem com outras IA's Generativas para que futuramente tenha uso!
+
+<img width="1738" height="2023" alt="image" src="https://github.com/user-attachments/assets/e6617e62-bbe6-4170-a5bc-dae5c87104c9" />
+
