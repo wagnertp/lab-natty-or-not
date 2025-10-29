@@ -11,7 +11,7 @@ Foi simples até! Acompanhe comigo o que foi necessario e crie o seu:
 ### Etapas
 
 1. **Entre no site https://www.colossyan.com/ e faça seu cadastro**
-2. **PMonte seu avatar com:**:
+2. **Monte seu avatar com:**:
     1. um vídeo pessoal( escolha bem o fundo que vai gravar, afinal ele fica vinculado ao seu avatar)
     2. Grave sua voz em um áudio 
 3. **Depois disso, abuse de sua criatividade, oscilando entre as animações, quadros e outros avatares.**
